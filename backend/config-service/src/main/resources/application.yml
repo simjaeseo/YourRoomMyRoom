@@ -18,7 +18,7 @@ spring:
 #          search-paths:
 #            - configuration
           username: simjaeseo
-          password: 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
+          password: 
           
 management:
   endpoints:
